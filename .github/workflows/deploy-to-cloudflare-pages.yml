@@ -44,6 +44,8 @@ jobs:
 
       - name: Build
         run: pnpm build
+        env:
+          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
 
       - name: Publish to Cloudflare Pages
         id: cloudflare_pages_deploy

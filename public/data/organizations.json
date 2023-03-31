@@ -1,0 +1,2409 @@
+[
+  {
+    "name": "Abema",
+    "officialSiteUrl": {
+      "default": "https://abemahouse.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "/logos/abema.svg",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Accenture",
+    "officialSiteUrl": {
+      "default": "https://accenture.merchandisecollection.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/accenture",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Adobe",
+    "officialSiteUrl": {
+      "default": "https://adobestore.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/adobe",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Amazon",
+    "officialSiteUrl": {
+      "default": "https://www.amazon.com/s?k=AMAZON.COM",
+      "ja": "https://www.amazon.co.jp/s?k=AMAZON.COM"
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/amazon",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Amazon AWS",
+    "officialSiteUrl": {
+      "default": "https://www.awsgearshop.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/amazonaws",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "AMD",
+    "officialSiteUrl": {
+      "default": "https://amdfanstore.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/amd",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Apache",
+    "officialSiteUrl": {
+      "default": "https://www.redbubble.com/people/comdev/shop",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/apache",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Apple",
+    "officialSiteUrl": {
+      "default": "https://www.apple.com/retail/infiniteloop",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/apple",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Arch Linux",
+    "officialSiteUrl": {
+      "default": "http://schwag.archlinux.ca",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/archlinux",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": [
+      {
+        "name": "zazzle",
+        "url": "https://www.zazzle.com/archlinux+gifts"
+      }
+    ]
+  },
+  {
+    "name": "Arduino",
+    "officialSiteUrl": {
+      "default": "https://store.arduino.cc",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/arduino",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Auth0",
+    "officialSiteUrl": {
+      "default": "https://auth0.myspreadshop.com/",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/auth0",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "officialSiteUrl": {
+      "default": "https://berkshirewear.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "/logos/berkshirehathaway.svg",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Binance",
+    "officialSiteUrl": {
+      "default": "https://pay.binance.com/en/merchant-stores",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/binance",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Bitwarden",
+    "officialSiteUrl": {
+      "default": "https://bitwarden-shop.myshopify.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/bitwarden",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Brave",
+    "officialSiteUrl": {
+      "default": "https://store.brave.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/brave",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "CakePHP",
+    "officialSiteUrl": {
+      "default": "https://swag.cakephp.org",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/cakephp",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Canon",
+    "officialSiteUrl": {
+      "default": "https://www.usa.canon.com/merchandise",
+      "ja": "https://store.canon.jp/online/c/c03"
+    },
+    "logo": {
+      "url": "/logos/canon.svg",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "CentOS",
+    "officialSiteUrl": {
+      "default": "https://www.hellotux.com/centos",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/centos",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Chakra UI",
+    "officialSiteUrl": {
+      "default": "https://chakra-ui-store.myspreadshop.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/chakraui",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Chatwork",
+    "officialSiteUrl": {
+      "default": "https://store.chatwork.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "/logos/chatwork.svg",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Cisco",
+    "officialSiteUrl": {
+      "default": "https://merchandise-apjc.cisco.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/cisco",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Debian",
+    "officialSiteUrl": {
+      "default": "https://www.debian.org/events/merchandise",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/debian",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": [
+      {
+        "name": "Antcom Shop",
+        "url": "https://antcom.myspreadshop.de"
+      },
+      {
+        "name": "CafePress",
+        "url": "https://www.cafepress.com/debianstuff"
+      },
+      {
+        "name": "Debian France",
+        "url": "https://enventelibre.org/en/42-debian"
+      },
+      {
+        "name": "FreeWear.org",
+        "url": "https://www.freewear.org/?org=Debian"
+      },
+      {
+        "name": "HELLOTUX",
+        "url": "https://www.hellotux.com/debian"
+      },
+      {
+        "name": "Koszulkomat",
+        "url": "https://www.koszulkomat.eu/tshirt/search?s=debian"
+      },
+      {
+        "name": "Sticker Mule",
+        "url": "https://www.stickermule.com/unixstickers"
+      }
+    ]
+  },
+  {
+    "name": "Dell",
+    "officialSiteUrl": {
+      "default": "https://www.delleventshop.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/dell",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Deno",
+    "officialSiteUrl": {
+      "default": "https://merch.deno.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/deno",
+      "license": "MIT",
+      "licenseUrl": "https://github.com/Kirlovon/Deno-Logo/blob/master/LICENSE"
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "dev.to",
+    "officialSiteUrl": {
+      "default": "https://shop.forem.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/dev.to",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "DigitalOcean",
+    "officialSiteUrl": {
+      "default": "https://store.digitalocean.com/",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/digitalocean",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Discord",
+    "officialSiteUrl": {
+      "default": "https://discordmerch.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/discord",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Docker",
+    "officialSiteUrl": {
+      "default": "https://stores.kotisdesign.com/docker",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/docker",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Dogecoin",
+    "officialSiteUrl": {
+      "default": "https://dogecoinswag.store",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/dogecoin",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "DuckDuckGo",
+    "officialSiteUrl": {
+      "default": "https://help.duckduckgo.com/duckduckgo-help-pages/community/swag/",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/duckduckgo",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "eBay",
+    "officialSiteUrl": {
+      "default": "https://www.ebay.com/str/ebaymerchandiseshop",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/ebay",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "EFF",
+    "officialSiteUrl": {
+      "default": "https://supporters.eff.org",
+      "ja": ""
+    },
+    "logo": {
+      "url": "/logos/eff.svg",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": true,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Evernote",
+    "officialSiteUrl": {
+      "default": "https://www.evernote.com/market",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/evernote",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Fedora",
+    "officialSiteUrl": {
+      "default": "https://www.hellotux.com/fedora",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/fedora",
+      "license": "custom",
+      "licenseUrl": "https://docs.fedoraproject.org/en-US/project/brand"
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": [
+      {
+        "name": "Unixstickers",
+        "url": "https://www.stickermule.com/unixstickers"
+      }
+    ]
+  },
+  {
+    "name": "Figma",
+    "officialSiteUrl": {
+      "default": "https://store.figma.com",
+      "ja": "https://store-jp.figma.com"
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/figma",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Ford",
+    "officialSiteUrl": {
+      "default": "https://merchandise.ford.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/ford",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Gatsby",
+    "officialSiteUrl": {
+      "default": "https://store.gatsbyjs.org",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/gatsby",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "GitHub",
+    "officialSiteUrl": {
+      "default": "https://www.thegithubshop.com/",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/github",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "GitKraken",
+    "officialSiteUrl": {
+      "default": "https://www.gitkraken.com/store",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/gitkraken",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Gitlab",
+    "officialSiteUrl": {
+      "default": "https://shop.gitlab.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/gitlab",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Go",
+    "officialSiteUrl": {
+      "default": "https://go-store.io",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/go",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": [
+      {
+        "name": "ardanlabs",
+        "url": "https://store.ardanlabs.com"
+      }
+    ]
+  },
+  {
+    "name": "Google",
+    "officialSiteUrl": {
+      "default": "https://www.googlemerchandisestore.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/google",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Hatena",
+    "officialSiteUrl": {
+      "default": "https://suzuri.jp/hatena",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/hatenabookmark",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "HP",
+    "officialSiteUrl": {
+      "default": "https://hpstore.corpmerchandise.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/hp",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Hulu",
+    "officialSiteUrl": {
+      "default": "https://shop.hulu.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/hulu",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "IBM",
+    "officialSiteUrl": {
+      "default": "https://logostore-globalid.us",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/ibm",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "intel",
+    "officialSiteUrl": {
+      "default": "https://www.theintelstore.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/intel",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Jenkins",
+    "officialSiteUrl": {
+      "default": "https://www.jenkins.io/merchandise",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/jenkins",
+      "license": "CC-BY-SA-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": [
+      {
+        "name": "cd foundation",
+        "url": "https://store.cd.foundation"
+      },
+      {
+        "name": "Cafepress",
+        "url": "https://www.cafepress.com/jenkinsci"
+      },
+      {
+        "name": "Shapeways",
+        "url": "https://www.shapeways.com/shops/jenkins"
+      }
+    ]
+  },
+  {
+    "name": "Konami",
+    "officialSiteUrl": {
+      "default": "https://officialkonamishop.com",
+      "ja": "https://www.konamistyle.jp"
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/konami",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "LINE",
+    "officialSiteUrl": {
+      "default": "https://store.linefriends.com",
+      "ja": "https://www.linefriends.jp"
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/line",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Linux foundation",
+    "officialSiteUrl": {
+      "default": "https://linuxfoundation.store",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/linuxfoundation",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Linux Mint",
+    "officialSiteUrl": {
+      "default": "https://linuxmint.com/store_tshirts.php",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/linuxmint",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Microsoft",
+    "officialSiteUrl": {
+      "default": "https://www.microsoftmerchandise.com/",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/microsoft",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Minecraft",
+    "officialSiteUrl": {
+      "default": "https://shop.minecraft.net",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/minecraft",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Mozilla",
+    "officialSiteUrl": {
+      "default": "https://mozilla.myspreadshop.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/mozilla",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Netflix",
+    "officialSiteUrl": {
+      "default": "https://www.netflix.shop",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/netflix",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Netlify",
+    "officialSiteUrl": {
+      "default": "https://swag.netlify.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/netlify",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Nginx",
+    "officialSiteUrl": {
+      "default": "https://swag-nginx.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/nginx",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Nintendo",
+    "officialSiteUrl": {
+      "default": "https://www.nintendo.com/store/merchandise",
+      "ja": "https://store-jp.nintendo.com/goods/"
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/nintendo",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Node.js",
+    "officialSiteUrl": {
+      "default": "https://store.nodejs.org",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/node.js",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Nvidia",
+    "officialSiteUrl": {
+      "default": "https://www.nvidia.com/en-us/apparel",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/nvidia",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "PayPal",
+    "officialSiteUrl": {
+      "default": "https://www.thepaypalshop.com/StoreClosed.aspx",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/paypal",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Pinterest",
+    "officialSiteUrl": {
+      "default": "http://www.pinterestmerch.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/pinterest",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "PlayStation",
+    "officialSiteUrl": {
+      "default": "https://gear.playstation.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/playstation",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Proton",
+    "officialSiteUrl": {
+      "default": "https://shop.proton.me",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/protonvpn",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Qiita",
+    "officialSiteUrl": {
+      "default": "https://suzuri.jp/qiita",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/qiita",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Raspberry Pi Foundation",
+    "officialSiteUrl": {
+      "default": "https://www.raspberrypi.com/raspberry-pi-store",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/raspberrypi",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": false,
+        "physical": true
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Red Bull",
+    "officialSiteUrl": {
+      "default": "https://www.redbullshop.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "/logos/redbull.svg",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Salesforce",
+    "officialSiteUrl": {
+      "default": "https://www.salesforcestore.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/salesforce",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "SAP",
+    "officialSiteUrl": {
+      "default": "https://sapmerchandise.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/sap",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Signal",
+    "officialSiteUrl": {
+      "default": "https://shop.signal.org",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/signal",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Slack",
+    "officialSiteUrl": {
+      "default": "https://slackswag.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/slack",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Snapchat",
+    "officialSiteUrl": {
+      "default": "https://store.snapchat.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/snapchat",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Solana",
+    "officialSiteUrl": {
+      "default": "https://store.solana.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "/logos/solana.svg",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "SpaceX",
+    "officialSiteUrl": {
+      "default": "https://shop.spacex.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/spacex",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Square Enix",
+    "officialSiteUrl": {
+      "default": "https://store.na.square-enix-games.com/en_US/hub/merchandise",
+      "ja": "https://store.jp.square-enix.com"
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/squareenix",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Stack Exchange",
+    "officialSiteUrl": {
+      "default": "http://shop.stackexchange.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/stackexchange",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Supabase",
+    "officialSiteUrl": {
+      "default": "https://store.supabase.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/supabase",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "SUSE",
+    "officialSiteUrl": {
+      "default": "https://www.susemerchandise.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/suse",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Tesla",
+    "officialSiteUrl": {
+      "default": "https://shop.tesla.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/tesla",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Threema",
+    "officialSiteUrl": {
+      "default": "https://threema.myspreadshop.ch",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/threema",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Tor Project",
+    "officialSiteUrl": {
+      "default": "https://www.torproject.org",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/torproject",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": true,
+        "purchase": false
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Travis CI",
+    "officialSiteUrl": {
+      "default": "https://shop.travis-ci.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/travisci",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Twitch",
+    "officialSiteUrl": {
+      "default": "https://www.amazon.com/twitchmerch",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/twitch",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Ubuntu",
+    "officialSiteUrl": {
+      "default": "https://shop.ubuntu.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/ubuntu",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": false,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": false
+      },
+      "availability": {
+        "online": false,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Value",
+    "officialSiteUrl": {
+      "default": "https://valvestore.forfansbyfans.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/valve",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Vivaldi",
+    "officialSiteUrl": {
+      "default": "https://store.vivaldi.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/vivaldi",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "vmware",
+    "officialSiteUrl": {
+      "default": "https://www.vmware.com/company/merchandise.html",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/vmware",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Vue.js",
+    "officialSiteUrl": {
+      "default": "https://vue.threadless.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/vue.js",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseUrl": "https://github.com/vuejs/art"
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Wikipedia",
+    "officialSiteUrl": {
+      "default": "https://store.wikimedia.org",
+      "ja": "https://store.wikimedia.org/ja"
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/wikipedia",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "WordPress",
+    "officialSiteUrl": {
+      "default": "https://mercantile.wordpress.org/",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/wordpress",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": true,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Xbox",
+    "officialSiteUrl": {
+      "default": "https://gear.xbox.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/xbox",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Yahoo!",
+    "officialSiteUrl": {
+      "default": "https://theshop.yahooinc.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/yahoo",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  },
+  {
+    "name": "Zoho",
+    "officialSiteUrl": {
+      "default": "https://us.zohomerchandise.com",
+      "ja": ""
+    },
+    "logo": {
+      "url": "https://cdn.simpleicons.org/zoho",
+      "license": "",
+      "licenseUrl": ""
+    },
+    "details": {
+      "isOpen": true,
+      "isOpenSource": false,
+      "sales": {
+        "donation": false,
+        "purchase": true
+      },
+      "availability": {
+        "online": true,
+        "physical": false
+      }
+    },
+    "unofficialShops": []
+  }
+]

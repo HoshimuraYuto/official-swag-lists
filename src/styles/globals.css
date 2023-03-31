@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  /* @apply max-w-screen-xl px-4 mx-auto lg:px-6; */
+  @apply max-w-screen-xl px-5 py-0 mx-auto my-0 sm:px-10;
+}
+
+.section {
+  @apply max-w-2xl px-4 py-8 mx-auto lg:py-16;
+}
+
+.highlight-text {
+  @apply text-slate-900 dark:text-slate-200;
+}
+
+.highlight-text-background {
+  @apply bg-slate-800 dark:bg-slate-700;
+}
+
+.body-color {
+  @apply text-slate-500 dark:text-slate-400;
+}
+
+.body-color-background {
+  @apply bg-white dark:bg-slate-900;
+}
+
+.header-button {
+  @apply relative inline-flex items-center p-2 text-sm rounded-lg focus:outline-none focus:ring-2;
+  @apply text-gray-500 hover:bg-gray-100 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600;
+
+  min-width: 40px;
+  min-height: 40px;
+}
+
+.header-button-menu {
+  @apply text-gray-500 dark:text-gray-100;
+}
+
+.header-button-menu-active {
+  @apply text-white bg-violet-500;
+}
+
+.badge-with-icon {
+  /* @apply text-xs font-medium inline-flex items-center mr-2 px-2.5 py-0.5 rounded-full; */
+  @apply text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-full;
+}
